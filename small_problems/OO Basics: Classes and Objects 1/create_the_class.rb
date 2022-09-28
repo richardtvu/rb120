@@ -1,2 +1,2 @@
-def Cat
+class Cat
 end 
